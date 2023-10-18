@@ -1,5 +1,5 @@
 # github-submodule
-## Проект FLApp
+## Проект FLApp (Friends Locator Application)
 - Регистрация по email
 - Приглашение и добавление друзей
 - Отображение местоположения друзей на карте
